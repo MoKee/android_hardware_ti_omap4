@@ -33,9 +33,9 @@
   * Rr Rg Rb Gr Gg Gb Br Bg Bb
   */
 
-package org.cyanogenmod.hardware;
+package org.mokee.hardware;
 
-import org.cyanogenmod.hardware.util.FileUtils;
+import org.mokee.hardware.util.FileUtils;
 
 public class DisplayColorCalibration {
     private static final String COLOR_FILE = "/sys/devices/platform/omapdss/manager0/cpr_coef";
